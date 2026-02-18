@@ -17,11 +17,13 @@ import NavBar from "./components/UseContext/auth-example/Navbar";
 import UseReducer1 from "./components/UseReducer/UseReducer1";
 import UseReducer2 from "./components/UseReducer/UseReducer2";
 import UserReducer3 from "./components/UseReducer/UserReducer3";
+import UseMemo1 from "./components/UseMemo/UseMemo1";
+import UseMemo2 from "./components/UseMemo/UseMemo2";
 
 const App = () => {
   return (
     <>
-      <UserReducer3 />
+      <UseMemo2 />
     </>
     // <AuthProvider>
     //       <NavBar />

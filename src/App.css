@@ -1,5 +1,4 @@
-/* Navbar container */
-.navbar {
+/* Navbar container .navbar {
   background-color: #282c34;
   padding: 12px;
   display: flex;
@@ -7,15 +6,15 @@
 }
 
 /* Links */
-.nav-link {
+/* .nav-link {
   color: #61dafb;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
-}
+} */
 
 /* Hover effect */
-.nav-link:hover {
+/* .nav-link:hover {
   color: white;
   text-decoration: underline;
-}
+}  */
