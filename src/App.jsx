@@ -19,12 +19,15 @@ import UseReducer2 from "./components/UseReducer/UseReducer2";
 import UserReducer3 from "./components/UseReducer/UserReducer3";
 import UseMemo1 from "./components/UseMemo/UseMemo1";
 import UseMemo2 from "./components/UseMemo/UseMemo2";
+import Parent from "./components/UseCallback/Parent";
 
 const App = () => {
   return (
     <>
-      <UseMemo2 />
+      <Parent />
     </>
+    // <UseMemo2 />
+
     // <AuthProvider>
     //       <NavBar />
     //     </AuthProvider>
