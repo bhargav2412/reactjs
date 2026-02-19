@@ -20,12 +20,19 @@ import UserReducer3 from "./components/UseReducer/UserReducer3";
 import UseMemo1 from "./components/UseMemo/UseMemo1";
 import UseMemo2 from "./components/UseMemo/UseMemo2";
 import Parent from "./components/UseCallback/Parent";
+import UseLayoutEffect1 from "./components/UseLayoutEffect/UseLayoutEffect1";
+import UseLayoutEffect2 from "./components/UseLayoutEffect/UseLayoutEffect2";
+import Chat from "./components/UseLayoutEffect/Chat";
 
 const App = () => {
   return (
     <>
-      <Parent />
+      <Chat />
     </>
+    //  <UseLayoutEffect2 />
+    // <UseLayoutEffect1 />
+
+    //  <Parent />
     // <UseMemo2 />
 
     // <AuthProvider>
