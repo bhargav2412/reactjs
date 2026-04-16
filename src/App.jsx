@@ -23,12 +23,15 @@ import Parent from "./components/UseCallback/Parent";
 import UseLayoutEffect1 from "./components/UseLayoutEffect/UseLayoutEffect1";
 import UseLayoutEffect2 from "./components/UseLayoutEffect/UseLayoutEffect2";
 import Chat from "./components/UseLayoutEffect/Chat";
+import RootPage from "./components/CreatePortal/RootPage";
 
 const App = () => {
   return (
     <>
-      <Chat />
+      <RootPage />
     </>
+    // <Chat />
+
     //  <UseLayoutEffect2 />
     // <UseLayoutEffect1 />
 
