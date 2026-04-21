@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
-    "react": "^19.3.0-canary-65db1000-20260206",
-    "react-dom": "^19.3.0-canary-65db1000-20260206",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.72.1",
     "react-router-dom": "^7.13.0",
     "tailwindcss": "^4.1.13"
   },
